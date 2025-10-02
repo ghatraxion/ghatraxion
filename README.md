@@ -1,8 +1,6 @@
 
 # Hi 👋, I'm Agha Ar-Rafif
 
-<h3 align="center">A passionate frontend developer from Central Java, Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghatraxion&label=Profile%20views&color=FFFFFF&style=flat" alt="ghatraxion" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghatraxion&theme=dark" alt="ghatraxion" /></a> </p>
