@@ -1,20 +1,61 @@
-
-# Hi 👋, I'm Agha Ar-Rafif
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghatraxion&label=Profile%20views&color=FFFFFF&style=flat" alt="ghatraxion" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghatraxion&theme=dark" alt="ghatraxion" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%2C%20I%27m%20Agha&height=120&section=header&color=gradient&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">enthusiast coder :)</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghatraxion&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ghatraxion" /></p>
+<p align="center">
+  <a href="https://github.com/ghatraxion"><img src="https://komarev.com/ghpvc/?username=ghatraxion&label=Profile+views&color=FFFFFF&style=flat" alt="ghatraxion" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghatraxion&show_icons=true&locale=en&theme=dark&hide_border=true" alt="ghatraxion" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghatraxion&theme=darkhub" alt="ghatraxion" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghatraxion&theme=dark&hide_border=true" alt="ghatraxion" /></p>
-```
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://github.com/ghatraxion">GitHub</a> •
+  <a href="https://linkedin.com/in/username">LinkedIn</a> •
+  <a href="https://twitter.com/username">Twitter</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghatraxion&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghatraxion&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghatraxion&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 What I Do & Projects
+
+- Passionate frontend & full-stack development  
+- Building small tools, experiments, dan project open source  
+- Sedang belajar & mengeksplor teknologi baru tiap hari  
+
+Contoh project yang bisa kamu tampilkan:
+- Project A  
+- Project B  
+- Project C  
+
+---
+
+### 💬 Say Hi!
+
+Jangan ragu DM atau kirim email kalau kamu mau kolab, berdiskusi, atau sekadar menyapa 😊  
